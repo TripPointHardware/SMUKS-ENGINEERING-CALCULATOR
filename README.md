@@ -8,7 +8,7 @@ Android 8.0 or newer · Free · No internet access
 
 ## Why
 
-Every calculator made me choose: a phone calculator that happily adds 2 V and 3 A and calls it 5, a web tool that needs internet and serves ads, a spreadsheet where I retype every conversion by hand, or a full CAS that hands back answers I can't trust without checking them myself. This one is pretty simple: it keeps the units through every step, does the tedious parts — conversions, plugging numbers into formulas, routine calculus — and checks every symbolic answer before it shows it.
+I kept forgetting and losing my scientific TI calculator, and got so fed up that I chose to make one I will never forget about; because it's on my phone.
 
 ## Features
 
@@ -81,6 +81,11 @@ None. EE Calc requests no Android permissions. Backup and restore use the system
 | Version | Changes |
 |---|---|
 | 1.0.0 | First release |
+
+## Credits
+**Symja (Java Symbolic Math Library)** — symbolic calculus and algebra powered by [Symja](https://github.com/axkr/symja_android_library), developed by Axel Kramer.
+Licensed under the GNU Lesser General Public License v3.0 (LGPL-3.0).
+Source code available at: https://github.com/axkr/symja_android_library
 
 ## License
 
