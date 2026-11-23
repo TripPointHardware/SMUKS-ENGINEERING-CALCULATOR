@@ -89,5 +89,4 @@ Source code available at: https://github.com/axkr/symja_android_library
 
 ## License
 
-Provided as is, without warranty. Personal use, not for the Play Store or redistribution.
-
+Source code is private; this repository hosts the releases. Well, I don't mind sharing the source code, but if you are like me, I just download scripts and programs I see on GitHub. I could give a rat's ass how it works.
