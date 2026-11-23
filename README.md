@@ -8,7 +8,7 @@ Android 8.0 or newer · Free · No internet access
 
 ## Why
 
-I kept forgetting and losing my scientific TI calculator, and got so fed up that I chose to make one I will never forget about; because it's on my phone.
+I kept forgetting and losing my scientific TI calculator. I eventually got so fed up that I decided to make one I would never forget about, because it's on my phone.
 
 ## Features
 
@@ -89,4 +89,4 @@ Source code available at: https://github.com/axkr/symja_android_library
 
 ## License
 
-Source code is private; this repository hosts the releases. Well, I don't mind sharing the source code, but if you are like me, I just download scripts and programs I see on GitHub. I could give a rat's ass how it works.
+Source code is private; this repository hosts the releases. Well, I don't mind sharing the source code, but if you're anything like me, you just download scripts and programs you find on GitHub. I couldn't give a rat's ass how they work.
